@@ -2,7 +2,7 @@
 
 [![Build Status](https://api.cirrus-ci.com/github/cirruslabs/cirrus-ci-web.svg)](https://cirrus-ci.com/github/cirruslabs/cirrus-ci-web)
 
-Front end for [Cirrus CI](https://cirrus-ci.org/) that uses [Relay](https://github.com/facebook/relay) framework
+Front end for [Cirrus CI](https://cirrus-ci.org/) that uses [Relay](https://github.com/Unity-Meta/relay) framework
 to minimize the amount of business logic.
 
 ## Development Guide
